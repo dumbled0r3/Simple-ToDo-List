@@ -31,7 +31,7 @@
         <h1>List</h1>
         <h1></h1>
         <div id="lists">
-        <table class="table table-hover">
+        <table class="table table-dark table-hover">
   <thead>
     <tr>
       <th scope="col" name="id"></th>
