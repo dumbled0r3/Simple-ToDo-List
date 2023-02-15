@@ -26,12 +26,12 @@
     </form>
 
     </div><br>
-    <hr class="bg-dark w-50 m-auto">
+    <hr class="bg-primary w-50 m-auto">
     <div class="lists w-50 m-auto my-4">
         <h1>List</h1>
         <h1></h1>
         <div id="lists">
-        <table class="table table-dark table-hover">
+        <table class="table table-hover">
   <thead>
     <tr>
       <th scope="col" name="id"></th>
